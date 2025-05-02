@@ -25,7 +25,7 @@ Here is an example of the result, showcasing the test image, the mask, and the p
 
 ![107](https://github.com/user-attachments/assets/3d262e17-b400-4204-977c-52c6e4c26250)  
 
-**Image: 107.img**  
+**Image: 107.png**  
 - **F1-Score**: 0.9680232558139535  
 - **Jaccard Index**: 0.9380281690140845  
 - **Precision**: 0.9746341463414634  
