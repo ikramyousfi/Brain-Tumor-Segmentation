@@ -31,13 +31,3 @@ Here is an example of the result, showcasing the test image, the mask, and the p
 - **Precision**: 0.9746341463414634  
 - **Recall**: 0.9615014436958614  
 
-### **Dependencies**
-- Python 3.7+
-- TensorFlow
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
-- tqdm
-- scikit-learn
-
