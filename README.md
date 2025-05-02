@@ -20,11 +20,16 @@ This project uses a U-Net architecture to segment brain tumors in medical images
 4. **Visualizing Predictions**  
    The predictions are visualized alongside the ground truth masks, providing an intuitive understanding of the model's performance.
 
-   here an example of the result The test image the mask and the predicted mask 
-![107](https://github.com/user-attachments/assets/3d262e17-b400-4204-977c-52c6e4c26250)
-107.img f1=0.9680232558139535,Jaccard = 0.9380281690140845, Precision = 0.9746341463414634, Recall = 0.9615014436958614
+## **Example Result**
+Here is an example of the result, showcasing the test image, the mask, and the predicted mask:  
 
-## **Getting Started**
+![107](https://github.com/user-attachments/assets/3d262e17-b400-4204-977c-52c6e4c26250)  
+
+**Image: 107.img**  
+- **F1-Score**: 0.9680232558139535  
+- **Jaccard Index**: 0.9380281690140845  
+- **Precision**: 0.9746341463414634  
+- **Recall**: 0.9615014436958614  
 
 ### **Dependencies**
 - Python 3.7+
@@ -35,9 +40,4 @@ This project uses a U-Net architecture to segment brain tumors in medical images
 - Matplotlib
 - tqdm
 - scikit-learn
-
-### **Installation**
-To install the required packages, run:
-```bash
-pip install -r requirements.txt
 
